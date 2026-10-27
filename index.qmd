@@ -3,6 +3,8 @@ title: "Coordinates correction"
 author:
   - name: Eric Marcon
     orcid: 0000-0002-5249-321X
+  - name: Léa Françoise
+    orcid: 0009-0006-4543-1199
   - name: Vincyane Badouard
     orcid: 0009-0007-7054-4010
 abstract: >
