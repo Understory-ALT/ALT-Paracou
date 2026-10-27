@@ -1,0 +1,27 @@
+---
+title: "Coordinates correction"
+author: "Eric Marcon & Vincyane Badouard"
+abstract: >
+  Repositioning the trees of the ALT project (<1 cm DBH).
+url: https://Understory-ALT.github.io/ALT-Paracou/
+github-repo: Understory-ALT/ALT-Paracou
+format:
+  html:
+    toc: true
+editor: visual
+execute:
+  # show code chunk output
+  include: true
+  # Show the code in the output
+  echo: true
+  # Show messages
+  message: false
+  # Show warnings
+  warning: true
+  # Cache code results
+  cache: false
+---
+
+# Problem to be addressed
+
+The young trees on the 9-hectare Plot 16 in Paracou are located on the field within 10m by 10m quadrats, which are themselves grouped into 1-hectare subplots whose corner points (labelled B.1 to B.13) are known with great precision thanks to a surveyor’s survey.
