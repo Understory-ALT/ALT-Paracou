@@ -3,11 +3,12 @@ title: "Coordinates correction"
 author: "Eric Marcon & Vincyane Badouard"
 abstract: >
   Repositioning the trees of the ALT project in Paracou (<1 cm DBH).
-url: https://Understory-ALT.github.io/ALT-Paracou/
-github-repo: Understory-ALT/ALT-Paracou
 format:
   html:
     toc: true
+    code-links:
+      href: https://Understory-ALT.github.io/ALT-Paracou/
+      repo: Understory-ALT/ALT-Paracou
 editor: visual
 execute:
   # show code chunk output
