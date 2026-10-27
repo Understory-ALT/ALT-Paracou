@@ -1,14 +1,19 @@
 ---
 title: "Coordinates correction"
-author: "Eric Marcon & Vincyane Badouard"
+author:
+  - name: Eric Marcon
+    orcid: 0000-0002-5249-321X
+  - name: Vincyane Badouard
+    orcid: 0009-0007-7054-4010
 abstract: >
   Repositioning the trees of the ALT project in Paracou (<1 cm DBH).
 format:
   html:
     toc: true
     code-links:
-      href: https://Understory-ALT.github.io/ALT-Paracou/
-      repo: Understory-ALT/ALT-Paracou
+      - text: GitHub repository
+        href: https://Understory-ALT.github.io/ALT-Paracou/
+        repo: Understory-ALT/ALT-Paracou
 editor: visual
 execute:
   # show code chunk output
