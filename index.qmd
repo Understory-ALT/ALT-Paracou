@@ -919,7 +919,7 @@ ggplot(
   geom_point() + 
   coord_fixed() +
   scale_size_continuous(range = c(0.1, 1)) +
-  labs(color = "Subplot", x = "UTM x", y = "UTM y")
+  labs(color = "Subplot", x = "UTM x", y = "UTM y", size = "Diametre")
 ```
 
 The corrected coordinates of the trees are in the `x` and `y` columns (local coordinate system, values between 0 and 100) and the `x_utm` and `y_utm` columns.
@@ -955,7 +955,7 @@ trees %>%
   ) +
   labs(
     color = "Subplot", 
-    fill = "Plot", 
+    fill = "Subplot", 
     x = "Displacement", 
     y = "Probabilty density"
   )
