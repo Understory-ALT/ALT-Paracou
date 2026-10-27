@@ -12,7 +12,7 @@ format:
     toc: true
     code-links:
       - text: GitHub repository
-        href: https://Understory-ALT.github.io/ALT-Paracou/
+        href: https://github.com/Understory-ALT/ALT-Paracou
         repo: Understory-ALT/ALT-Paracou
 editor: visual
 execute:
